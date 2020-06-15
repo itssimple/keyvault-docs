@@ -1,0 +1,9 @@
+{
+  "name": "keyvault-docs",
+  "version": "1.0.0",
+  "description": "Documentation for KeyVault",
+  "main": "index.js",
+  "repository": "https://github.com/itssimple/keyvault-docs.git",
+  "author": "Chris Gårdenberg <webmaster@itssimple.se>",
+  "license": "MIT"
+}
